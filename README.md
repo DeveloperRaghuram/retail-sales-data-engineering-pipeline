@@ -1,6 +1,6 @@
 # Retail Sales Data Engineering Pipeline
 
-A small, portfolio-ready data engineering project that demonstrates an end-to-end batch pipeline using **Python, pandas, SQL, and SQLite**.
+end-to-end batch pipeline using **Python, pandas, SQL, and SQLite**.
 
 ## What it does
 1. Reads raw retail transactions from `data/raw_sales.csv`.
@@ -66,15 +66,3 @@ After it runs, inspect:
 - Duplicate transaction IDs keep the first valid occurrence.
 - Revenue is calculated as `quantity * unit_price`.
 
-## Suggested GitHub description
-A beginner-friendly batch data pipeline that ingests synthetic retail sales data, validates and cleans records with Python/pandas, loads a SQLite warehouse, and produces SQL analytics reports.
-
-## Resume bullet (use only after you run and verify it)
-Built an end-to-end batch ETL pipeline using Python, pandas, SQL, and SQLite to ingest synthetic retail transactions, enforce data-quality rules, deduplicate records, load a relational warehouse, and generate revenue analytics reports.
-
-## Next improvements
-- Add logging and configurable file paths.
-- Add unit tests with pytest.
-- Replace SQLite with MariaDB or PostgreSQL.
-- Schedule the pipeline with Airflow.
-- Add incremental loads and a data-quality report.

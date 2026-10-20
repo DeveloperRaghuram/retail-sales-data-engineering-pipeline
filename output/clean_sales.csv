@@ -1,0 +1,33 @@
+transaction_id,order_date,product,category,quantity,unit_price,region,revenue
+T1001,2026-01-03,Wireless Mouse,Accessories,2,599.0,South,1198.0
+T1002,2026-01-04,Mechanical Keyboard,Accessories,1,2499.0,South,2499.0
+T1003,2026-01-05,USB-C Hub,Accessories,3,1299.0,West,3897.0
+T1004,2026-01-07,Monitor 24 inch,Electronics,1,8999.0,North,8999.0
+T1005,2026-01-08,Laptop Stand,Accessories,2,999.0,East,1998.0
+T1006,2026-01-10,Webcam,Electronics,1,3299.0,South,3299.0
+T1007,2026-01-12,Desk Lamp,Home,2,799.0,West,1598.0
+T1008,2026-01-15,Headphones,Electronics,2,1799.0,North,3598.0
+T1009,2026-01-16,Mouse Pad,Accessories,4,249.0,East,996.0
+T1010,2026-01-18,Office Chair,Home,1,7499.0,South,7499.0
+T1011,2026-02-02,Wireless Mouse,Accessories,1,599.0,West,599.0
+T1012,2026-02-03,Mechanical Keyboard,Accessories,2,2499.0,North,4998.0
+T1013,2026-02-05,USB-C Hub,Accessories,1,1299.0,East,1299.0
+T1014,2026-02-07,Monitor 24 inch,Electronics,2,8999.0,South,17998.0
+T1015,2026-02-09,Laptop Stand,Accessories,1,999.0,West,999.0
+T1016,2026-02-11,Webcam,Electronics,2,3299.0,East,6598.0
+T1017,2026-02-13,Desk Lamp,Home,1,799.0,North,799.0
+T1018,2026-02-16,Headphones,Electronics,1,1799.0,South,1799.0
+T1019,2026-02-18,Mouse Pad,Accessories,5,249.0,West,1245.0
+T1020,2026-02-20,Office Chair,Home,1,7499.0,East,7499.0
+T1021,2026-03-01,Wireless Mouse,Accessories,3,599.0,North,1797.0
+T1022,2026-03-03,Mechanical Keyboard,Accessories,1,2499.0,East,2499.0
+T1023,2026-03-05,USB-C Hub,Accessories,2,1299.0,South,2598.0
+T1024,2026-03-07,Monitor 24 inch,Electronics,1,8999.0,West,8999.0
+T1025,2026-03-09,Laptop Stand,Accessories,3,999.0,South,2997.0
+T1026,2026-03-11,Webcam,Electronics,1,3299.0,North,3299.0
+T1027,2026-03-13,Desk Lamp,Home,3,799.0,East,2397.0
+T1028,2026-03-15,Headphones,Electronics,2,1799.0,West,3598.0
+T1029,2026-03-18,Mouse Pad,Accessories,2,249.0,South,498.0
+T1030,2026-03-21,Office Chair,Home,1,7499.0,North,7499.0
+T1031,2026-03-22,Wireless Mouse,Accessories,2,599.0,South,1198.0
+T1034,2026-03-26,Desk Lamp,Home,2,799.0,North,1598.0

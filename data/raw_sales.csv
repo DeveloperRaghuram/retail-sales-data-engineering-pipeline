@@ -1,0 +1,38 @@
+transaction_id,order_date,product,category,quantity,unit_price,region
+T1001,2026-01-03,Wireless Mouse,Accessories,2,599.00,South
+T1002,2026-01-04,Mechanical Keyboard,Accessories,1,2499.00,South
+T1003,2026-01-05,USB-C Hub,Accessories,3,1299.00,West
+T1004,2026-01-07,Monitor 24 inch,Electronics,1,8999.00,North
+T1005,2026-01-08,Laptop Stand,Accessories,2,999.00,East
+T1006,2026-01-10,Webcam,Electronics,1,3299.00,South
+T1007,2026-01-12,Desk Lamp,Home,2,799.00,West
+T1008,2026-01-15,Headphones,Electronics,2,1799.00,North
+T1009,2026-01-16,Mouse Pad,Accessories,4,249.00,East
+T1010,2026-01-18,Office Chair,Home,1,7499.00,South
+T1011,2026-02-02,Wireless Mouse,Accessories,1,599.00,West
+T1012,2026-02-03,Mechanical Keyboard,Accessories,2,2499.00,North
+T1013,2026-02-05,USB-C Hub,Accessories,1,1299.00,East
+T1014,2026-02-07,Monitor 24 inch,Electronics,2,8999.00,South
+T1015,2026-02-09,Laptop Stand,Accessories,1,999.00,West
+T1016,2026-02-11,Webcam,Electronics,2,3299.00,East
+T1017,2026-02-13,Desk Lamp,Home,1,799.00,North
+T1018,2026-02-16,Headphones,Electronics,1,1799.00,South
+T1019,2026-02-18,Mouse Pad,Accessories,5,249.00,West
+T1020,2026-02-20,Office Chair,Home,1,7499.00,East
+T1021,2026-03-01,Wireless Mouse,Accessories,3,599.00,North
+T1022,2026-03-03,Mechanical Keyboard,Accessories,1,2499.00,East
+T1023,2026-03-05,USB-C Hub,Accessories,2,1299.00,South
+T1024,2026-03-07,Monitor 24 inch,Electronics,1,8999.00,West
+T1025,2026-03-09,Laptop Stand,Accessories,3,999.00,South
+T1026,2026-03-11,Webcam,Electronics,1,3299.00,North
+T1027,2026-03-13,Desk Lamp,Home,3,799.00,East
+T1028,2026-03-15,Headphones,Electronics,2,1799.00,West
+T1029,2026-03-18,Mouse Pad,Accessories,2,249.00,South
+T1030,2026-03-21,Office Chair,Home,1,7499.00,North
+T1031,2026-03-22,Wireless Mouse,Accessories,2,599.00,South
+T1031,2026-03-22,Wireless Mouse,Accessories,2,599.00,South
+T1032,not-a-date,Keyboard Cover,Accessories,1,399.00,West
+T1033,2026-03-25,USB-C Hub,Accessories,0,1299.00,East
+T1034,2026-03-26,Desk Lamp,Home,2,799.00,North
+T1035,2026-03-27,Headphones,Electronics,1,-1799.00,West
+T1036,2026-03-28,,Electronics,1,1999.00,South

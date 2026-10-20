@@ -1,0 +1,10 @@
+{
+  "run_timestamp_utc": "2026-10-20T14:51:10.700239+00:00",
+  "source_file": "data\\raw_sales.csv",
+  "input_rows": 37,
+  "accepted_rows": 32,
+  "rejected_rows": 4,
+  "duplicate_rows_removed": 1,
+  "total_revenue": 118391.0,
+  "warehouse": "output\\retail_warehouse.db"
+}

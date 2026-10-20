@@ -1,0 +1,5 @@
+transaction_id,order_date,product,category,quantity,unit_price,region
+T1032,,Keyboard Cover,Accessories,1,399.0,West
+T1033,2026-03-25,USB-C Hub,Accessories,0,1299.0,East
+T1035,2026-03-27,Headphones,Electronics,1,-1799.0,West
+T1036,2026-03-28,,Electronics,1,1999.0,South
